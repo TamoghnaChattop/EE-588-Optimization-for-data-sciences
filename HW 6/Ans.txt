@@ -1,0 +1,17 @@
+Heavy Ball Method : 
+val = 3.8900
+ind = 4
+ans = 0.9200
+
+Part c : ans = 4.7170e-04
+
+Part d : ans = 42.6900
+
+Nesterov's Method :
+val = 3.3200
+ind = 4
+ans = 0.9200
+
+    
+
+    
